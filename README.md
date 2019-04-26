@@ -1,5 +1,5 @@
 # Natural Language Processing
-Objective: Recommendation System: Recommend similar apparel using Images and Text Description.
+Objective: Recommend similar apparel using Images and Text Description.
 
 Following code uses various Natural Language Processing methods for recommending women's apparel. 
 
